@@ -1,0 +1,6 @@
+C:\Users\dafea\source\repos\SuperAdventure\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\dafea\source\repos\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\dafea\source\repos\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\dafea\source\repos\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\dafea\source\repos\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\dafea\source\repos\SuperAdventure\Engine\obj\Debug\Engine.pdb
